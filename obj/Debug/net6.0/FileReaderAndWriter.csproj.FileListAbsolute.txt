@@ -1,0 +1,15 @@
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\bin\Debug\net6.0\FileReaderAndWriter.exe
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\bin\Debug\net6.0\FileReaderAndWriter.deps.json
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\bin\Debug\net6.0\FileReaderAndWriter.runtimeconfig.json
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\bin\Debug\net6.0\FileReaderAndWriter.dll
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\bin\Debug\net6.0\FileReaderAndWriter.pdb
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.csproj.AssemblyReference.cache
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.AssemblyInfoInputs.cache
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.AssemblyInfo.cs
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.csproj.CoreCompileInputs.cache
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.dll
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\obj\Debug\net6.0\refint\FileReaderAndWriter.dll
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.pdb
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.genruntimeconfig.cache
+C:\Users\casun\RiderProjects\BinaryToBase10\src\FileReaderAndWriter\obj\Debug\net6.0\ref\FileReaderAndWriter.dll
